@@ -1,19 +1,19 @@
 {
 	"name": "Hayabusa",
 	"colors": {
-		"editor.background": "#0B1220",
+		"editor.background": "#000",
 		"editor.foreground": "#D7E3F0",
-		"sideBar.background": "#172135",
-		"sideBar.dropBackground": "#172135",
-		"activityBar.activeBackground": "#172135",
-		"activityBar.background": "#2b3e63",
-		"list.hoverBackground": "#2b3e63",
+		"sideBar.background": "#000",
+		"sideBar.dropBackground": "#000",
+		"activityBar.activeBackground": "#4d4d4d",
+		"activityBar.background": "#000",
+		"list.hoverBackground": "#000",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"activityBarBadge.background": "#172135",
-		"statusBar.background": "#ff6a00",
-		"titleBar.activeBackground": "#172135",
-		"tab.inactiveBackground": "#2b3e63",
-		"editorGroupHeader.tabsBackground": "#172135"
+		"activityBarBadge.background": "#000",
+		"statusBar.background": "#2a9f22",
+		"titleBar.activeBackground": "#000",
+		"tab.inactiveBackground": "#4d4d4d",
+		"editorGroupHeader.tabsBackground": "#000"
 	},
 	"tokenColors": [
 		{
@@ -24,7 +24,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f97316"
+				"foreground": "#a8a29e"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#44ff37"
 			}
 		},
 		{
@@ -109,7 +109,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFD080"
+				"foreground": "#f38c38"
 			}
 		},
 		{
@@ -159,7 +159,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a8a29e",
+				"foreground": "#fff",
 				"fontStyle": "italic"
 			}
 		},
