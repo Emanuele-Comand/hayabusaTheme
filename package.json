@@ -1,6 +1,6 @@
 {
-  "name": "hayabusa",
-  "displayName": "Hayabusa",
+  "name": "Void terminal",
+  "displayName": "Void terminal",
   "description": "Just a simple and hopefully memorable vs code theme.",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hayabusa",
+        "label": "Void terminal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Hayabusa-color-theme.json"
+        "path": "./themes/VT-color-theme.json"
       }
     ]
   }

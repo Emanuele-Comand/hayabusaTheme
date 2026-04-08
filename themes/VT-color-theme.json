@@ -1,5 +1,5 @@
 {
-	"name": "Hayabusa",
+	"name": "Void Terminal",
 	"colors": {
 		"editor.background": "#000",
 		"editor.foreground": "#D7E3F0",
@@ -109,7 +109,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f38c38"
+				"foreground": "#44ff37"
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#44ff37"
+				"foreground": "#F78C6C"
 			}
 		},
 		{
